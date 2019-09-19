@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiciewaih.daggerfalldeutsch.de/sitemap.xml
